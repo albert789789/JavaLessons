@@ -10,7 +10,7 @@ public class Tasks {
 
         System.out.println("Test 02");
 
-        System.out.println("Test 04");
+        System.out.println("Test 03");
     }
 
     /*  Begin6   - 12
